@@ -1,6 +1,3 @@
-- Model Optimization
-    - Grid Search
-    - Random Search
-    - Bayesian optimization
-    - Hyperband
-- Automatic Model Tunning
+- Data Labeling on scale
+- Human-in-the-loop pipelines
+- Amazon Augmented AI (A2I)
