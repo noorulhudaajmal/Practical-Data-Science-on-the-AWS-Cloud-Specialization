@@ -1,0 +1,6 @@
+- Model Optimization
+    - Grid Search
+    - Random Search
+    - Bayesian optimization
+    - Hyperband
+- Automatic Model Tunning
